@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15ce30c6-fcc2-43e7-83c8-3deb8b352ba4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="sh" />
+      <option name="imageId" value="658556849311" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="sh" />
+      <option name="imageId" value="f452c5d7b1b4" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="sh" />
+      <option name="imageId" value="63a66c5557d5" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="sh" />
+      <option name="imageId" value="ad91ff1ef8b6" />
+    </ExecCommand>
+  </component>
+  <component name="ProjectId" id="1fKX4yFWrG9tTTj4ZaTb1zcvFjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="nginx-nest-react" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="1.0.0" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="80" />
+                <option name="hostPort" value="80" />
+              </DockerPortBindingImpl>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="443" />
+                <option name="hostPort" value="443" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/www/" />
+                <option name="hostPath" value="$PROJECT_DIR$" />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23107123" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Images" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15ce30c6-fcc2-43e7-83c8-3deb8b352ba4" name="Default Changelist" comment="" />
+      <created>1595967570783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595967570783</updated>
+      <workItem from="1595967572945" duration="5190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="102" width="765" height="910" key="#Dockerfile" timestamp="1595994333583">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="608" y="102" width="765" height="910" key="#Dockerfile/72.27.1848.1053@72.27.1848.1053" timestamp="1595994333583" />
+    <state x="718" y="263" width="524" height="601" key="FileChooserDialogImpl" timestamp="1595968824731">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="718" y="263" width="524" height="601" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1595968824731" />
+    <state width="1820" height="235" key="GridCell.Tab.0.bottom" timestamp="1595996290512">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="235" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595996290512" />
+    <state width="1820" height="235" key="GridCell.Tab.0.center" timestamp="1595996290510">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="235" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595996290510" />
+    <state width="1820" height="235" key="GridCell.Tab.0.left" timestamp="1595996290510">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="235" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595996290510" />
+    <state width="1820" height="235" key="GridCell.Tab.0.right" timestamp="1595996290511">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="235" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595996290511" />
+    <state x="675" y="235" width="620" height="650" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1595968745783">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="675" y="235" width="620" height="650" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/72.27.1848.1053@72.27.1848.1053" timestamp="1595968745783" />
+    <state x="675" y="235" width="872" height="684" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize" timestamp="1595994331915">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="675" y="235" width="872" height="684" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize/72.27.1848.1053@72.27.1848.1053" timestamp="1595994331915" />
+  </component>
+</project>
